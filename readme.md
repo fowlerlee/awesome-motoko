@@ -152,6 +152,7 @@ Fully functional smart contract.
 - [Stable HashMaps](https://github.com/canscale/StableHashMap) - Functional & Class-Based stable Hashmaps in Motoko.
 - [Stable LinkedList](https://github.com/canscale/LinkedList) - Stable, mutable singly & doubly linked lists in Motoko.
 - [Stable Red-Black Trees](https://github.com/canscale/StableRBTree) - Stable Red-Black Trees in Motoko.
+- [Stable HashMap](https://github.com/ZhenyaUsenko/motoko-hash-map) - Stable HashMaps in motoko.
 
 ### Encoding
 
